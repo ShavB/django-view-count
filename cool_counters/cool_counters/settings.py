@@ -26,7 +26,7 @@ SECRET_KEY = '0vti^&v2+8v_=y-don9p_yxa+(%rk^z34s4$m-^8&!u8d2s)3-'
 DEBUG = True
 
 ALLOWED_HOSTS = ["*"]
-
+DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # Application definition
 
